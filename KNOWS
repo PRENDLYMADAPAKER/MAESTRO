@@ -1,0 +1,359 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/c/c5/Kapamilya_Online_Live_Wordmark_2D_Logo_2020.png/revision/latest/scale-to-width-down/150?cb=20230716145813" group-title="NZM CHANNEL",kapamilya Online
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/2
+#EXTINF: -1 tvg-id="KapamilyaChannel.ph" tvg-logo="https://i.imgur.com/fRETRXx.png" group-title="NZM CHANNEL", Kapamilya
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/143
+#EXTINF: -1 tvg-id="TV.5.ph" tvg-logo="https://i.imgur.com/K84w7Dx.png" group-title="NZM CHANNEL", TV5
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/3
+#EXTINF: -1 tvg-logo="https://i.imgur.com/nMSt2j0.png" group-title="NZM CHANNEL", GMA 7
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/135
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="gma" tvg-logo="https://i.imgur.com/nMSt2j0.png" group-title="NZM CHANNEL", GMA7 BACK-UP🇵🇭
+https://shorten.is/Mikeph-gmatv-backup-m3u8?.m3u8
+#EXTINF:-1 tvg-id="GMALifeTV.ph" tvg-logo="https://i.imgur.com/tmUW88u.png" group-title="NZM CHANNEL",GMA Life TV
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/1566
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/GTV_Philippines_Logo_Vector.svg/577px-GTV_Philippines_Logo_Vector.svg.png" group-title="NZM CHANNEL" , GTV
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/138
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dxs/images/b/b0/Heart_of_Asia_2D_Logo_2020.png/revision/latest/scale-to-width-down/300?cb=20221015110217" group-title="NZM CHANNEL",Heart Of Asia
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/151
+#EXTINF:-1 tvg-logo="https://up.yimg.com/ib/th?id=OIP.sjLBUGeh8RaFBYfpJEWFGwHaFX&pid=Api&rs=1&c=1&qlt=95&w=171&h=123" group-title="NZM CHANNEL",I HEART MOVIES
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/152
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vd0vb52.png" group-title="NZM CHANNEL", A2Z
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/6
+#EXTINF: -1 tvg-id="JEEPNEY.TV.ph" tvg-logo="https://i.imgur.com/WnZJ4ev.png" group-title="NZM CHANNEL", Jeepney TV
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/7
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.PQIqVnRkec3OqiiJLeWcEAHaHa&pid=Api&P=0&h=220" group-title="NZM CHANNEL",RJ TV
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/1618
+#EXTINF:-1 tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5Qnjmtc9t06kU8Z_N17RkYADfjPQMrbPBuqyOSbvPGyyw.JPG" group-title="NZM CHANNEL",ALL TV
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/161
+#EXTINF: -1 tvg-id="Net25.ph" tvg-logo="https://i.imgur.com/dkDV4UZ.png" group-title="NZM CHANNEL", NET 25
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/1617
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/Kyf5KYg.png" group-title="NZM CHANNEL", INC TV
+http://vstream.vip/8mX5bjS6T3/B6PVdypXSP/8
+#EXTINF: -1 tvg-id="KNOWLEDGE.CHANNEL.ph" tvg-logo="https://i.imgur.com/UIqEr2y.png" group-title="NZM CHANNEL", Knowledge Channel
+http://vstream.vip/8mX5bjS6T3/B6PVdypXSP/1615
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IBC 13" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/IBC_13_Logo_2011.svg/1200px-IBC_13_Logo_2011.svg.png" group-title="NZM CHANNEL",IBC 13
+http://vstream.vip/8mX5bjS6T3/B6PVdypXSP/108
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DepEd TV" tvg-logo="https://static.wikia.nocookie.net/russel/images/f/f3/DepEd_TV_Logo_2020.png/revision/latest?cb=20220308233726" group-title="NZM CHANNEL",DepEd TV
+http://vstream.vip/8mX5bjS6T3/B6PVdypXSP/1314
+#EXTINF: -1 tvg-logo="https://www.rappler.com/tachyon/2022/08/ptv-logo.png" group-title="NZM CHANNEL", PTV
+http://vstream.vip/8mX5bjS6T3/B6PVdypXSP/10
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.ed7c5876b12bdcc4e442371ea09b1e72?rik=opVp7WMJKwNBbQ&riu=http%3a%2f%2fwww.tapdmv.com%2flogo-TapTV.png&ehk=3cu7Z9MkvL2T8pyV7X25sD7xOTlZilwPp4FQ17uRoqc%3d&risl=&pid=ImgRaw&r=0" group-title="NZM CHANNEL",Tap TV
+http://vstream.vip/8mX5bjS6T3/B6PVdypXSP/1570
+#EXTINF: -1 tvg-id="KIX.HD.ph" tvg-logo="https://i.imgur.com/B8Fmzer.png" group-title="NZM CHANNEL", KIX
+http://vstream.vip/8mX5bjS6T3/B6PVdypXSP/25
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CLTV 36" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/Cl_tv_36_ph.png" group-title="NZM CHANNEL",CLTV 36
+http://vstream.vip/8mX5bjS6T3/B6PVdypXSP/11
+#EXTINF: -1 tvg-id="TheFilipinoChannelMiddleEast.us" tvg-logo="https://i.imgur.com/zZWj5vn.png" group-title="NZM CHANNEL", TFC
+http://vstream.vip/cT6dUbPHHm/PUcu7TfMGU/110
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/gkluDe9.png" group-title="NZM CHANNEL", One PH
+http://vstream.vip/cT6dUbPHHm/PUcu7TfMGU/14
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/OneNewsPH_logo.svg" group-title="NZM CHANNEL",One News
+http://vstream.vip/cT6dUbPHHm/PUcu7TfMGU/122
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/22/Sari-Sari_Channel_logo.png" group-title="NZM CHANNEL", SARI SARI
+http://vstream.vip/cT6dUbPHHm/PUcu7TfMGU/153
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BuKo Channel" tvg-logo="https://i.imgur.com/Wv0K5Yc.png" group-title="NZM CHANNEL",BuKo Channel
+http://vstream.vip/cT6dUbPHHm/PUcu7TfMGU/154
+#EXTINF:-1 tvg-id="DZBBDT1.ph" tvg-name="DZBBDT1.ph" tvg-logo="https://i.imgur.com/5GXTkZx.png" group-title="NZM CHANNEL" , Super Radyo DZBB
+http://vstream.vip/cT6dUbPHHm/PUcu7TfMGU/15
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Radyo5truefmlogo.webp/600px-Radyo5truefmlogo.webp.png" group-title="NZM CHANNEL" , True FM
+http://vstream.vip/cT6dUbPHHm/PUcu7TfMGU/1306
+#EXTINF: -1 tvg-id="TeleRadyo.ph" tvg-name="TeleRadyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/TeleRadyo_Logo.svg/512px-TeleRadyo_Logo.svg.png" group-title="NZM CHANNEL", TELERADYO
+http://vstream.vip/cT6dUbPHHm/PUcu7TfMGU/16
+#EXTINF:-1 tvg-logo="https://up.yimg.com/ib/th?id=OIP.ST1AGbb5-bLzWe_eQJSbYQAAAA&pid=Api&rs=1&c=1&qlt=95&w=164&h=108" group-title="NZM CHANNEL",DZRH TV
+http://vstream.vip/cT6dUbPHHm/PUcu7TfMGU/12
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="One Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/One_Sports_logo.svg/2560px-One_Sports_logo.svg.png" group-title="NZM CHANNEL",One Sports
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/29
+#EXTINF: -1 tvg-logo="https://i.imgur.com/xYdJrZo.png" group-title="NZM CHANNEL", ONE SPORTS +
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/30
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/F2npB7o.png" group-title="NZM CHANNEL", PBA RUSH
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/28
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UAAP Varsity" tvg-logo="https://i.imgur.com/rifinVV.png" group-title="NZM CHANNEL",UAAP Varsity
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/83
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/NBA_TV_Philippines.png" group-title="NZM CHANNEL", NBA PHILIPPINES
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/155
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/7/7f/RPTV_Logo_2024.png/revision/latest/scale-to-width-down/80?cb=20240305140759" group-title="NZM CHANNEL",RPTV
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/157
+#EXTINF:-1 tvg-logo="https://up.yimg.com/ib/th?id=OIP.VJpd8ms9DB41IjHVpqIChAHaEn&pid=Api&rs=1&c=1&qlt=95&w=190&h=118" group-title="NZM CHANNEL",MPTV
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/1310
+#EXTINF: -1 tvg-id="ESPN.us" tvg-logo="https://imgur.com/uDSwW1K.png" group-title="NZM CHANNEL", ESPN
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/34
+#EXTINF:-1 tvg-logo="https://up.yimg.com/ib/th?id=OIP.cYo63zGJYOczLnvB9kOFdwHaHa&pid=Api&rs=1&c=1&qlt=95&w=103&h=103" group-title="NZM CHANNEL",UFC
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/1564
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TAP Edge" tvg-logo="https://i.imgur.com/3YvDUjL.png" group-title="NZM CHANNEL",TAP Edge
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/1315
+#EXTINF: -1 tvg-id="TAPSPORTS.ph" tvg-logo="https://i.imgur.com/ZsWDiRF.png" group-title="NZM CHANNEL", TAP Sports
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/1316
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPOTV" tvg-logo="https://i.imgur.com/lWvrtfR.png" group-title="NZM CHANNEL",SPOTV
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/1305
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPOTV2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/SPOTV2_logo_2018.png" group-title="NZM CHANNEL",SPOTV2
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/1572
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Premier_Sports_logo_final.png/revision/latest/scale-to-width-down/400?cb=20210920130931" group-title="NZM CHANNEL",Premier Sports
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/1303
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Premier Sports 2" tvg-logo="https://ownassetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1641949301_premier-sports-2.png" group-title="NZM CHANNEL",Premier Sports 2
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/1524
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fight Sports" tvg-logo="https://i.imgur.com/nV55veq.png" group-title="NZM CHANNEL",Fight Sports
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/95
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 1" tvg-logo="https://i.imgur.com/1PQpXuc.png" group-title="NZM CHANNEL",beIN Sports 1
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/114
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Eurosport_Logo_2015.svg/2560px-Eurosport_Logo_2015.svg.png" group-title="NZM CHANNEL",Eurosport
+http://vstream.vip/8mX5bjS6T3/B6PVdypXSP/1312
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tennis Channel" tvg-logo="https://imgur.com/BmXK3Xm.png" group-title="NZM CHANNEL",Tennis Channel
+http://vstream.vip/8mX5bjS6T3/B6PVdypXSP/32
+#EXTINF:-1 tvg-logo="http://vstream.vip:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjqlD8PjQkmsQNK8224v75EalJHpFgXqwnpCu5KE6XCx6pRHU2igaYsgQfCMiPpuhXgxJcEPZFgACF2YF30XqWIvZ9IzaoTmqJV9n2K446tYo.png" group-title="NZM CHANNEL",FIGHT NETWORK
+http://vstream.vip/8mX5bjS6T3/B6PVdypXSP/33
+#EXTINF:-1 tvg-id="IMPACTWrestling.pluto" tvg-logo="https://impactwrestling.com/wp-content/uploads/logo-impact-red-flat.png" tvg-name="24/7: IMPACT PRO WRESTLING" group-title="NZM CHANNEL",IMPACT PRO WRESTLING
+http://vstream.vip/8mX5bjS6T3/B6PVdypXSP/35
+#EXTINF: -1 tvg-id="redbulltv.us" tvg-name="RedBull TV" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="NZM CHANNEL", REDBULL TV
+http://vstream.vip/8mX5bjS6T3/B6PVdypXSP/36
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.gBFHf-JEOlJnnbeDK5UbDwHaHa&pid=Api&P=0&h=220" group-title="NZM CHANNEL",GOLF NETWORK
+http://vstream.vip/8mX5bjS6T3/B6PVdypXSP/68
+#EXTINF:-1 tvg-logo="https://up.yimg.com/ib/th?id=OIP.mxZe2vVBo34nPVa8s8RfjwHaCT&pid=Api&rs=1&c=1&qlt=95&w=307&h=95" group-title="NZM CHANNEL",FITE
+http://vstream.vip/8mX5bjS6T3/B6PVdypXSP/115
+#EXTINF:-1 tvg-logo="https://up.yimg.com/ib/th?id=OIP.6ZR_Iy7iq9SkwSKrTVlufAHaBZ&pid=Api&rs=1&c=1&qlt=95&w=616&h=115" group-title="NZM CHANNEL",ESPN 2
+http://vstream.vip/8mX5bjS6T3/B6PVdypXSP/144
+#EXTINF:-1 tvg-logo="http://vstream.vip:80/images/GaiERX9N6FqLLVStrOp5A83Nkss6SxDOSX-bKFn1bxXF5GEfTMsXK2U9t7HCTT_Pu2S98J_vgWadtoXFyGQPAFBH-RarNoafETIhSxcyGChph9caYKqXQFFDr8QQbwgu.png" group-title="NZM CHANNEL",ESPN U
+http://vstream.vip/8mX5bjS6T3/B6PVdypXSP/167
+#EXTINF:-1 tvg-logo="https://up.yimg.com/ib/th?id=OIP.pCMMJ92eP8oKe_Fc14sfnQHaE7&pid=Api&rs=1&c=1&qlt=95&w=133&h=88" group-title="NZM CHANNEL",WWE
+http://vstream.vip/cT6dUbPHHm/PUcu7TfMGU/146
+#EXTINF:-1 tvg-logo="https://s.yimg.com/fz/api/res/1.2/lb2P8PzJvle0zCyurQ1tHQ--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTEzMDtxPTgwO3c9MTMz/https://s.yimg.com/zb/imgv1/4c7ef874-a6fb-3d20-8e26-7159b8b40d16/t_500x300" group-title="NZM CHANNEL",NBA TV-2
+http://vstream.vip/cT6dUbPHHm/PUcu7TfMGU/147
+#EXTINF:-1 tvg-logo="http://vstream.vip:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWVxFgCqkV_CmLZUi2nGl5BvGCJ5fvPJlf63Fl8rJXRozP6w6i-dxFK9mm0jMW4yVgg2mhen9WvMGh4Kzo_jvBKu.png" group-title="NZM CHANNEL",NBA TV ASIA
+http://vstream.vip/cT6dUbPHHm/PUcu7TfMGU/162
+#EXTINF:-1 tvg-logo="https://s.yimg.com/fz/api/res/1.2/VkiArR3m0LJypVCKSqYuMA--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTEzMDtxPTgwO3c9MTY2/https://s.yimg.com/zb/imgv1/b98e2e57-7397-3936-8d2d-d4f2eb664b81/t_500x300" group-title="NZM CHANNEL",YES NETWORK
+http://vstream.vip/cT6dUbPHHm/PUcu7TfMGU/164
+#EXTINF:-1 tvg-logo="https://s.yimg.com/fz/api/res/1.2/F8zd1cxvr2wzoD.hhc8agg--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTQwO3E9ODA7dz00MA--/https://s.yimg.com/zb/imgv1/4f11d06a-8a87-3727-a45d-6ff8d6cfc94e/t_140x140" group-title="NZM CHANNEL",GOLF CHANNEL
+http://vstream.vip/cT6dUbPHHm/PUcu7TfMGU/286
+#EXTINF:-1 tvg-logo="http://vstream.vip:80/images/BuUbzauffYi39txhYeQJKxk9rO9rMpERyuaiVXL9KEZTbGO9o6UDUnoWsgGQar-LKztADLwLNyE4V2BKBSJAZsSg9DiPVSrU56BVxB-x5s4c9baMYDn2brLSGUU4C29tSgyj_tIX8yvMDvPgD2_pvg.png" group-title="NZM CHANNEL",TRACE SPORTS
+http://vstream.vip/cT6dUbPHHm/PUcu7TfMGU/1559
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.F-mqCyHf7TosQuttrofE4QHaFK&pid=Api&P=0&h=220" group-title="NZM CHANNEL",FIGHT TV
+http://vstream.vip/cT6dUbPHHm/PUcu7TfMGU/1622
+#EXTINF: -1 tvg-chno="20" tvg-logo="https://i.imgur.com/2Jn7QHG.png" group-title="NZM CHANNEL", CineMo!
+https://d1bail49udbz1k.cloudfront.net/out/v1/78e282e04f0944f3ad0aa1db7a1be645/index_3.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema One" tvg-logo="https://i.imgur.com/moSPpuJ.png" group-title="NZM CHANNEL",Cinema One
+https://cinemaone-abscbn-ono.amagi.tv/index_3.m3u8
+#EXTINF:-1 tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5QP3tSoSnh0jEU4D-QJDGskNl6Xd3Cpi8RRLMTIPAp1PoWc_soznP2bIt_JwqblVOI.png" group-title="NZM CHANNEL",TMC
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/104
+#EXTINF:-1 tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5RTJIkNC4Tuk5Mfu5vvBFhtdm-iLYKWobZlOG6RgRa60Q.jpg" group-title="NZM CHANNEL",ROCK ENTERTAINMENT
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/156
+#EXTINF:-1 tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5SztmHTFR8WIcLSyauelr_HkYU041PUxn0qcc0dJTQ3CQ.png" group-title="NZM CHANNEL",SOLARFLIX
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/158
+#EXTINF:-1 tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5Se6jFV4Z7-aqEzJGiZJzAGBVcYDB97sERmmh7CFR6qMQ.jpg" group-title="NZM CHANNEL",CELESTIAL MOVIES PINOY
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/159
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.7iKu1VzluMmkbH0U79GvugAAAA&pid=Api&P=0&h=220" group-title="NZM CHANNEL",CELESTIAL MOVIE
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/1319
+#EXTINF:-1 tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5Ri6qP5cna0vGp8GLnURqogDew3X51Rqh19pUmAfvXmiA.jpg" group-title="NZM CHANNEL",VIVA CINEMA
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/160
+#EXTINF:-1 tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5RdKdqJ8ZAKHgotWT1XJRdPlW-_n6pHAz7kN4oEoSmupA.png" group-title="NZM CHANNEL",THRILL
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/127
+#EXTINF:-1 tvg-logo="https://s.yimg.com/fz/api/res/1.2/w9z860iHaSmeAr7_jbQZcQ--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTEzMDtxPTgwO3c9MTY2/https://s.yimg.com/zb/imgv1/532704c4-6578-3a29-9ef6-3b90b26c8a64/t_500x300" group-title="NZM CHANNEL",ROCK ACTION
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/1304
+#EXTINF:-1 tvg-logo="https://up.yimg.com/ib/th?id=OIP.7i_NEUaiqj2UtFHiHjzzhgHaF0&pid=Api&rs=1&c=1&qlt=95&w=82&h=64" group-title="NZM CHANNEL",TVN MOVIES PINOY
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/1307
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.aRdo41BMHGQxRI8Ht6p5nQAAAA&pid=Api&P=0&h=220" group-title="NZM CHANNEL",TVN MOVIES
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/94
+#EXTINF:-1 tvg-logo="https://up.yimg.com/ib/th?id=OIP.-WI89P3CKYqi8T661G2SagAAAA&pid=Api&rs=1&c=1&qlt=95&w=94&h=113" group-title="NZM CHANNEL",TVN
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/1308
+#EXTINF:-1 tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5QW-N1hIHfJT3QL-IiHoode.png" group-title="NZM CHANNEL",HITS
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/87
+#EXTINF:-1 tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5RUO5HORG7fs0XXXpFQeaA46PvTnK_Z9kCvCIX13IEoxw.png" group-title="NZM CHANNEL",HITS NOW
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/88
+#EXTINF:-1 tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5SHUFaIZtZD217NKmIUUqDZ_tsM_dBUva_cdN7wItaHlg.png" group-title="NZM CHANNEL",HITS MOVIES
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/26
+#EXTINF:-1 tvg-logo="https://up.yimg.com/ib/th?id=OIP.osscav8LjAQE2GON3SDKtAHaDZ&pid=Api&rs=1&c=1&qlt=95&w=208&h=95" group-title="NZM CHANNEL",HBO
+http://vstream.vip/8mX5bjS6T3/B6PVdypXSP/148
+#EXTINF:-1 tvg-logo="https://up.yimg.com/ib/th?id=OIP.cva4kkO6XEFcO_GrpqOAAgHaCP&pid=Api&rs=1&c=1&qlt=95&w=246&h=74" group-title="NZM CHANNEL",HBO 2
+http://vstream.vip/8mX5bjS6T3/B6PVdypXSP/150
+#EXTINF:-1 tvg-logo="https://up.yimg.com/ib/th?id=OIP.vUSh5Vvnh-hCexOB0-brtwHaEo&pid=Api&rs=1&c=1&qlt=95&w=180&h=112" group-title="NZM CHANNEL",HBO HITS
+http://vstream.vip/8mX5bjS6T3/B6PVdypXSP/1299
+#EXTINF:-1 tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5RV1TJ0TL1glJCC0HpoxKtse_lp0A1npdabGcCUPfZ3MQ.jpg" group-title="NZM CHANNEL",HBO FAMILY
+http://vstream.vip/8mX5bjS6T3/B6PVdypXSP/80
+#EXTINF:-1 tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5SWx_xOa7LQp6YSBZjgui1GtUod3SMFntSuQmirvMBkvw.png" group-title="NZM CHANNEL",HBO SIGNATURE
+http://vstream.vip/8mX5bjS6T3/B6PVdypXSP/81
+#EXTINF:-1 tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5RDvngrWzdAHkPI2v3f7RjZ.jpg" group-title="NZM CHANNEL",CINEMAX
+http://vstream.vip/8mX5bjS6T3/B6PVdypXSP/141
+#EXTINF:-1 tvg-logo="https://up.yimg.com/ib/th?id=OIP.Ub3dFefNC_3tyi0kO3DU0AAAAA&pid=Api&rs=1&c=1&qlt=95&w=104&h=104" group-title="NZM CHANNEL",CINEMAX EAST
+http://vstream.vip/8mX5bjS6T3/B6PVdypXSP/149
+#EXTINF:-1 tvg-logo="https://up.yimg.com/ib/th?id=OIP.Z2J_d-8bYNMyFENoDvKPDAAAAA&pid=Api&rs=1&c=1&qlt=95&w=167&h=110" group-title="NZM CHANNEL",TAP MOVIES
+http://vstream.vip/8mX5bjS6T3/B6PVdypXSP/1337
+#EXTINF:-1 tvg-logo="https://up.yimg.com/ib/th?id=OIP.cvFfZcEmySi_Z3lTLk022QHaCX&pid=Api&rs=1&c=1&qlt=95&w=298&h=95" group-title="NZM CHANNEL",TAP ACTION FLIX
+http://vstream.vip/8mX5bjS6T3/B6PVdypXSP/1526
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.eAA2mEn3BKQOYkLlLjHzWQHaE8&pid=Api&P=0&h=220" group-title="NZM CHANNEL",AXN
+http://vstream.vip/cT6dUbPHHm/PUcu7TfMGU/72
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.sosu9fGSatTKVq3ih0QYDgHaHa&pid=Api&P=0&h=220" group-title="NZM CHANNEL",SONY MOVIES
+http://vstream.vip/cT6dUbPHHm/PUcu7TfMGU/97
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.remMddKKRZUR4w9W8cTmgwHaEK&pid=Api&P=0&h=220" group-title="NZM CHANNEL",DMAX
+http://vstream.vip/cT6dUbPHHm/PUcu7TfMGU/98
+#EXTINF:-1 tvg-logo="https://up.yimg.com/ib/th?id=OIP.qnvK1kwCky06hPFTxM2YKAAAAA&pid=Api&rs=1&c=1&qlt=95&w=190&h=108" group-title="NZM CHANNEL",ACTION HOLLYWOOD MOVIES
+http://vstream.vip/cT6dUbPHHm/PUcu7TfMGU/103
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.AtOXy5Sai2WggNQE1r7XeAHaC3&pid=Api&P=0&h=220" group-title="NZM CHANNEL",BOO TV
+http://vstream.vip/cT6dUbPHHm/PUcu7TfMGU/1574
+#EXTINF:-1 tvg-logo="http://vstream.vip:80/images/KAfIccbtURHrKiNdpLgWYo3y94-4a0y8gPpzqbOVHM7yUHi0I-Plb5f0VRe1FClcT2CtzwRMnFbQSYSyrRVL2Q.png" group-title="NZM CHANNEL",CCM
+http://vstream.vip/cT6dUbPHHm/PUcu7TfMGU/1633
+#EXTINF:-1 tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5TnolxmjV-P9gnEfEwouI22_XmAjQlkf2jQ-2b-HU_OdQ.jpg" group-title="NZM CHANNEL",PBO
+http://vstream.vip/cT6dUbPHHm/PUcu7TfMGU/20
+#EXTINF:-1 tvg-logo="https://up.yimg.com/ib/th?id=OIP.1trPKGABE7BTBG8EDBEpbwAAAA&pid=Api&rs=1&c=1&qlt=95&w=89&h=89" group-title="NZM CHANNEL",CNN INT
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/13
+#EXTINF:-1 tvg-logo="http://vstream.vip:80/images/HUySdt2SHXRaYy2IS3iaPuL9Knt1D45sqVGG8mls7ah7FjngNJQcCXrKXmYlqwsh5NHRzW_8GoKj3faS03KN4J4rioe2Cq3RCVZ7R3oF0NbHcRmCFESvkPw1eLJiNKzc.png" group-title="NZM CHANNEL",ANC
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/44
+#EXTINF:-1 tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5TxJeEPmNB4N5fVoqa-So0bov8EkSsr2vXlG8WiD7YT3mABYoUTfAVjpuR20Z51OOBLmNNI1TIlD5q371pcOqB_.png" group-title="NZM CHANNEL",CNA
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/45
+#EXTINF:-1 tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5S2Jx3rTwf2lZt2tBqbXgNHEhSXPWNVpHw1XqpU2PvpDw.png" group-title="NZM CHANNEL",ALJAZEERA
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/46
+#EXTINF:-1 tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5QXk5piLV6x5NhVriGbVRgioZkkwQsuz7QBHdQl1MtqQA.jpg" group-title="NZM CHANNEL",FOX NEWS
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/47
+#EXTINF:-1 tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5QwoLbsJAAgQuWV1J3O2gr8CUnELKW76r_iGzYEOQr1_g.jpg" group-title="NZM CHANNEL",BLOOMBERG
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/48
+#EXTINF:-1 tvg-logo="http://vstream.vip:80/images/OyZ4M8SZaoSfWyRpdA_U4OZl89kDwfsvjxs73NWfpjtiuhky0PbyynEbk8stHdQmY97sk1iIZv6eIdro0tPZNVEUf_zlYFx1rPmjywYnxsjXiOu_Cladz1x8h_4huMdi.png" group-title="NZM CHANNEL",NEWSMAX 2
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/49
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.lw0vSWnTQqoZ58eTYDSMcwHaFS&pid=Api&P=0&h=220" group-title="NZM CHANNEL",FRANCE 24
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/84
+#EXTINF:-1 tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5TkwLqoLQT2TLag7gWrJTqCjNcpPWV8ddNwchlMnj0Npw.png" group-title="NZM CHANNEL",NHK WORLD JAPAN
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/71
+#EXTINF:-1 tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5QtQk7E-_PDIfsnTbfN_Ryb.png" group-title="NZM CHANNEL",KBS WORLD
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/51
+#EXTINF:-1 tvg-logo="https://up.yimg.com/ib/th?id=OIP.XNIcGz96dg_taTo3VwEh9wHaHa&pid=Api&rs=1&c=1&qlt=95&w=104&h=104" group-title="NZM CHANNEL",ABC NEWS
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/102
+#EXTINF:-1 tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5T_bLy0UUGoNkSWuLjeu01ed1_94bqaoG6VaA3IORxmbQ.jpg" group-title="NZM CHANNEL",DW
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/113
+#EXTINF:-1 tvg-logo="https://up.yimg.com/ib/th?id=OIP.d0ixIMkd4epkfSzyi-iihAHaE8&pid=Api&rs=1&c=1&qlt=95&w=139&h=92" group-title="NZM CHANNEL",BBC NEWS
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/118
+#EXTINF:-1 tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2vW2VGx0rQXAngRjRPvlhQWg7q9StmFiMQ5vnWzcyoSqrWI8QxugptSgkvyUI3_mxw.png" group-title="NZM CHANNEL",CCTV 4
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/1573
+#EXTINF:-1 tvg-logo="https://s.yimg.com/fz/api/res/1.2/wbxckY76q2sSj2vq7HGJGw--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTQwO3E9ODA7dz00MA--/https://s.yimg.com/zb/imgv1/f76cd0e6-c31a-32b5-a0e4-9e02b6246c6d/t_140x140" group-title="NZM CHANNEL",SMNI
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/17
+#EXTINF:-1 tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5S-pGbp_NjeOKV3JBTwSg091AJwZ7M-9D_tZOJtGHhLEw.png" group-title="NZM CHANNEL",TV MARIA
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/18
+#EXTINF:-1 tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5Tdyy6NXKhlxO4ZSTYcvFTV.png" group-title="NZM CHANNEL",EWTN
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/91
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.hd-eA4QkTWmKMMvaHxXEZgHaHa&pid=Api&P=0&h=220" group-title="NZM CHANNEL",CATHOLIC FAITH NETWORK
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/90
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.LtQmEMSczJbFkU6yU12prwHaHa&pid=Api&P=0&h=220" group-title="NZM CHANNEL",GBN GOSPEL BRODCASTING NETWORK
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/86
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.Etp_B8kZKlT9WfGprfKh6QHaEK&pid=Api&P=0&h=220" group-title="NZM CHANNEL",TBN INSPIRE
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/76
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.UUZ3v_7mTiPJwRfRkm0xjwHaDt&pid=Api&P=0&h=220" group-title="NZM CHANNEL",LIFE! CHRISTIAN TV
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/74
+#EXTINF:-1 tvg-logo="https://s.yimg.com/fz/api/res/1.2/EtFMbrLbNcIsYsknhD_fVA--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTQwO3E9ODA7dz00MA--/https://s.yimg.com/zb/imgv1/27dd4a67-3551-35e7-bf70-ce28cf57ff50/t_140x140" group-title="NZM CHANNEL",CATHOLIC TV
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/73
+#EXTINF:-1 tvg-logo="https://tse1.explicit.bing.net/th?id=OIP.jMu1Go20TXaU9EpP6HtWGAHaDM&pid=Api&P=0&h=220" group-title="NZM CHANNEL",LIFE TV
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/66
+#EXTINF:-1 tvg-logo="https://s.yimg.com/fz/api/res/1.2/a1WGQYtnMpZE5uBAO6Iwuw--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTQwO3E9ODA7dz00MA--/https://s.yimg.com/zb/imgv1/199c1ff6-0c81-35bb-85c1-607626721f17/t_140x140" group-title="NZM CHANNEL",CCTN 47
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/109
+#EXTINF:-1 tvg-logo="https://s.yimg.com/fz/api/res/1.2/2dRn4f0k5iwDn4.DQ9_eiA--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTEzMDtxPTgwO3c9MTMw/https://s.yimg.com/zb/imgv1/4c22e4d8-1c26-3078-a255-bda6a4a6dddf/t_500x300" group-title="NZM CHANNEL",ANG DATING DAAN
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/19
+#EXTINF:-1 tvg-logo="https://up.yimg.com/ib/th?id=OIP.8tBpwerOq_LZ65WdxGIetAAAAA&pid=Api&rs=1&c=1&qlt=95&w=147&h=101" group-title="NZM CHANNEL",AFN
+http://vstream.vip/8mX5bjS6T3/B6PVdypXSP/134
+#EXTINF:-1 tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5SnEofm6p7yU9gb73Uf4rnn.png" group-title="NZM CHANNEL",TLC
+http://vstream.vip/8mX5bjS6T3/B6PVdypXSP/50
+#EXTINF:-1 tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5RvRmSGmJ92h0HAfxBWJL0k.png" group-title="NZM CHANNEL",HGTV
+http://vstream.vip/8mX5bjS6T3/B6PVdypXSP/125
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.netr5UOsO6rqJLU6CPWSywHaHH&pid=Api&P=0&h=220" group-title="NZM CHANNEL",FASHION TV
+http://vstream.vip/8mX5bjS6T3/B6PVdypXSP/67
+#EXTINF:-1 tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5TOiO_fC1MeK3og77Mpd8CsNswCiQ6ZaPwJslpnnWlJscut-_S3aTfRGUDnIc9LkeM.jpg" group-title="NZM CHANNEL",FOOD NETWORK
+http://vstream.vip/8mX5bjS6T3/B6PVdypXSP/126
+#EXTINF:-1 tvg-logo="https://up.yimg.com/ib/th?id=OIP.fUghMMYr5iCmVjGYROzBLwHaDv&pid=Api&rs=1&c=1&qlt=95&w=184&h=93" group-title="NZM CHANNEL",BBC LIFESTYLE
+http://vstream.vip/8mX5bjS6T3/B6PVdypXSP/686
+#EXTINF:-1 tvg-logo="https://s.yimg.com/fz/api/res/1.2/7cc2XutOnjofd5ePHJoDRg--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTQwO3E9ODA7dz00MA--/https://s.yimg.com/zb/imgv1/f215825a-c688-3ddc-9889-8e3c51075fbc/t_140x140" group-title="NZM CHANNEL",TECHSTORM
+http://vstream.vip/8mX5bjS6T3/B6PVdypXSP/1571
+#EXTINF:-1 tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5Rd8D2Chijc3vD7n4s486GNWmaqTNp7fGP3I0l3qasjBccTfyE6PNHTOsM9Kx1Osv0.jpg" group-title="NZM CHANNEL",HISTORY
+http://vstream.vip/cT6dUbPHHm/PUcu7TfMGU/136
+#EXTINF:-1 tvg-logo="https://s.yimg.com/fz/api/res/1.2/jKxnWW_ycLX8K2iiivrZ1g--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTEzMDtxPTgwO3c9MTY2/https://s.yimg.com/zb/imgv1/61388c75-7031-3c71-8a08-8fdac41d3214/t_500x300" group-title="NZM CHANNEL",NAT GEO WILD
+http://vstream.vip/cT6dUbPHHm/PUcu7TfMGU/137
+#EXTINF:-1 tvg-logo="https://media.nationalgeographic.org/assets/photos/000/335/33506_r646x363.jpg?0bccedc62766ce70b551a31bca19734e2f9fdd89" group-title="NZM CHANNEL",NATIONAL GEOGRAPHIC
+http://vstream.vip/cT6dUbPHHm/PUcu7TfMGU/139
+#EXTINF:-1 tvg-logo="https://s.yimg.com/fz/api/res/1.2/uIa9zHxfTB2C1h7kjGNiMQ--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTEzMDtxPTgwO3c9MTY2/https://s.yimg.com/zb/imgv1/3a418602-036a-33e8-b472-4d605cab19a8/t_500x300" group-title="NZM CHANNEL",ANIMAL PLANET
+http://vstream.vip/cT6dUbPHHm/PUcu7TfMGU/39
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.SImodQFxnJXPx0P108fErAHaEK&pid=Api&P=0&h=220" group-title="NZM CHANNEL",WILD EARTH
+http://vstream.vip/cT6dUbPHHm/PUcu7TfMGU/93
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.HNObD6PSTzItVV8vK8SwpwAAAA&pid=Api&P=0&h=220" group-title="NZM CHANNEL",DISCOVERY ASIA
+http://vstream.vip/cT6dUbPHHm/PUcu7TfMGU/38
+#EXTINF:-1 tvg-logo="http://vstream.vip:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjQE4s87lZYDNWMlFLOYm1qtVBCzf1EtjED_Uk0nDQyLAXEHHab9fcA13VSdCk_kDlt9pjErV3CdLXpBx1Q9SQPe96cckNHaTTsxWp3zV_iYk.png" group-title="NZM CHANNEL",DISCOVERY LIFE
+http://vstream.vip/cT6dUbPHHm/PUcu7TfMGU/169
+#EXTINF:-1 tvg-logo="http://vstream.vip:80/images/b1fpUhU7-pxOCTH1xsRd_7uFWw7A19vCeT2cwAgRufYHsSkpGxlhqyK5o9PtbXrnt_zwE6LRXdcf3naVPpg5lNI04BJtOR2sQsyfdsZNglw.png" group-title="NZM CHANNEL",DISCOVERY FAMILY
+http://vstream.vip/cT6dUbPHHm/PUcu7TfMGU/168
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.-4CtPtr73y-nhwGEOuLRGgHaHa&pid=Api&P=0&h=220" group-title="NZM CHANNEL",DISCOVERY SCIENCE
+http://vstream.vip/cT6dUbPHHm/PUcu7TfMGU/40
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.GpvM3--bNBNZLwuP07GNawHaFj&pid=Api&P=0&h=220" group-title="NZM CHANNEL",DISCOVERY CHANNEL
+http://vstream.vip/cT6dUbPHHm/PUcu7TfMGU/123
+#EXTINF:-1 tvg-logo="https://up.yimg.com/ib/th?id=OIP.2mJ5j5bYdN7nYzv92S1RBgHaCx&pid=Api&rs=1&c=1&qlt=95&w=247&h=92" group-title="NZM CHANNEL",DISCOVERY TURBO
+http://vstream.vip/cT6dUbPHHm/PUcu7TfMGU/124
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.8V7TLvDb7KARA-wOTovyPQHaEK&pid=Api&P=0&h=220" group-title="NZM CHANNEL",LOVE NATURE
+http://vstream.vip/cT6dUbPHHm/PUcu7TfMGU/37
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.5nS9Xh00fHbiyn63A8inrQHaFl&pid=Api&P=0&h=220" group-title="NZM CHANNEL",BBC EARTH
+http://vstream.vip/cT6dUbPHHm/PUcu7TfMGU/41
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.z7-l52cuVh3lGy4nfcBtfQHaFj&pid=Api&P=0&h=220" group-title="NZM CHANNEL",OUTDOOR
+http://vstream.vip/cT6dUbPHHm/PUcu7TfMGU/82
+#EXTINF:-1 tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5TbizNQfNX_jaae1iOgWPsXO4UGFFumqiyBrkWaS_kcdw.jpg" group-title="NZM CHANNEL",TRAVEL CHANNEL
+http://vstream.vip/cT6dUbPHHm/PUcu7TfMGU/79
+#EXTINF:-1 tvg-logo="https://s.yimg.com/fz/api/res/1.2/5dWOWTgCQ8NCSUu2tb7QZQ--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTEzMDtxPTgwO3c9MTY2/https://s.yimg.com/zb/imgv1/23cba746-224e-3cb6-968c-9d8eedf95cf1/t_500x300" group-title="NZM CHANNEL",INVESTIGATION DISCOVERY HD
+http://vstream.vip/cT6dUbPHHm/PUcu7TfMGU/78
+#EXTINF:-1 tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5TGx46iWWzcKc70Ky9wZtTDaSWp1irL7pN5AJYlHnRsmw.jpg" group-title="NZM CHANNEL",CRIME AND INVESTIGATION
+http://vstream.vip/cT6dUbPHHm/PUcu7TfMGU/89
+#EXTINF:-1 tvg-logo="https://up.yimg.com/ib/th?id=OIP.LMFocvCRFLbekfz7hiqt8AHaDt&pid=Api&rs=1&c=1&qlt=95&w=218&h=109" group-title="NZM CHANNEL",GLOBAL TREKKER
+http://vstream.vip/cT6dUbPHHm/PUcu7TfMGU/1620
+#EXTINF:-1 tvg-logo="https://s.yimg.com/fz/api/res/1.2/dPN1vgmiyGEOkvgjQQ2A7Q--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTEzMDtxPTgwO3c9MTY2/https://s.yimg.com/zb/imgv1/ccc3fa97-6c57-3292-895d-93b54a34e417/t_500x300" group-title="NZM CHANNEL",DISCOVERY
+http://vstream.vip/cT6dUbPHHm/PUcu7TfMGU/191
+#EXTINF:-1 tvg-logo="http://vstream.vip:80/images/jKiDqCKkkFeD8eK7W2bjFis61Cse1N0QwTG7d9F0-cOxdrYbhuA6LyEd5Atgo9Qp2X6yOLWPKvGMa8StMwUVQs6_lLH9pGvoFgZjkZtdeCfoUkHOEjcyhw0SsE2jeghzBONPINvymrvu2M7cXeniLb6iCI7y9s4lJPYsceoezsor_BClgBgMzvkeeCEGVjmWWzxdxipr7vy9FahVJdrcb0kmkm3gP1I-_IJ6fLeQ39o.jpeg" group-title="NZM CHANNEL",MYTIME MOVIE
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/27
+#EXTINF:-1 tvg-logo="http://vstream.vip:80/images/4kkQ2QJIUBXV8E_ddm1Kb2ZSmtPF1Pe3UWtuceTk4Gs5BnmWj2H-CyACZloiFwRPk2BOb_5fv8C7peEXoK31mTSbdQSnP0GIFpxFne7WvHsKkyBM9ifwdo4E0nuSd1zOZgBA3neXNU0pM1WhUdnVpM2cUrkpP8xK12vj14LhPuo.png" group-title="NZM CHANNEL",GALAXY PREMIUM
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/106
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.KaBSV7ABEyX8HF-7xYjEhgAAAA&pid=Api&P=0&h=220" group-title="NZM CHANNEL",GALAXY
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/107
+#EXTINF:-1 tvg-logo="http://seeklogo.com/images/L/lifetime-movie-network-logo-6A27FC5FE1-seeklogo.com.gif" group-title="NZM CHANNEL",LIFETIME MOVIE NETWORK
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/165
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.dhaeOHG7_qocYoCROmpw1wAAAA&pid=Api&P=0&h=220" group-title="NZM CHANNEL",CCTV 13
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/52
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d1/Karaoke_channel_id.png/revision/latest?cb=20190711121840" group-title="NZM CHANNEL",KARAOKE
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/1
+#EXTINF:-1 tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5RXNQ6lMwG0ht4gQh56Ya73ho64_cv3-wBy-8HzqoExmQ.png" group-title="NZM CHANNEL",LOTUS MACAU
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/53
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.ENES36QQ3oCMFv0mr56aOQAAAA&pid=Api&P=0&h=220" group-title="NZM CHANNEL",EBS+1
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/54
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.UQLbCS6FjJFIQxrbvdw1nQHaEc&pid=Api&P=0&h=220" group-title="NZM CHANNEL",ARIRANG TV
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/85
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.Cy8K4T1_wE65uekLkRlsRAAAAA&pid=Api&P=0&h=220" group-title="NZM CHANNEL",MOVIE PLUS
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/69
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.dXWj_mP8gm_7VtXoTyARawAAAA&pid=Api&P=0&h=220" group-title="NZM CHANNEL",K-ONE
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/96
+#EXTINF:-1 tvg-logo="http://vstream.vip:80/images/tcjBMuCD8M_zcpZuORRWzTeXJV4oMdcef4K7bEaOcgI7HaUo30HHTMTpGcxRijX7oQhJS4SKOXp1Thsd3PptWOz4wrqRxWUFi5ZJW9KxOsGlXNoWc0w9lj_NF1CnS2tfaABDpehBFGBrVEKQnwx3Ng.png" group-title="NZM CHANNEL",MOVIE BOX
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/131
+#EXTINF:-1 tvg-logo="https://s.yimg.com/fz/api/res/1.2/KVXnBqT_XR6toVJ7L.Fu3Q--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTQwO3E9ODA7dz00MA--/https://s.yimg.com/zb/imgv1/b438893c-c594-347a-9b99-afc53395bb21/t_140x140" group-title="NZM CHANNEL",k+
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/1619
+#EXTINF:-1 tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5TAYymMlciBYnSOf0J_qv8vUBx4vJ-RcBFWL9p4s3HNog.jpg" group-title="NZM CHANNEL",DREAMWORKS pinoy
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/1318
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.0es5f1sOwiKPhtjL-0k1TQHaEK&pid=Api&P=0&h=220" group-title="NZM CHANNEL",CBEEBIES
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/55
+#EXTINF:-1 tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5TO3SRhq7J5Da04rY-EaJBW.jpg" group-title="NZM CHANNEL",ANIMAX
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/56
+#EXTINF:-1 tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5QrzMuiBS4u6E8-kz9LxyL45H9hbEfiZyZKVbrm-MgZLQ.png" group-title="NZM CHANNEL",NICKELODEON
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/57
+#EXTINF:-1 tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5SnCEqmDiUZDeNxIQHH004g.jpg" group-title="NZM CHANNEL",NICK JR
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/58
+#EXTINF:-1 tvg-logo="http://vstream.vip:80/images/8MO0lTnj9M_ERwLqQMxWzt3_8fKOo33WxD9okqSdiJdBYLUNZEjo00JQGxPzEEjZ8PYoyii-145_97l7HVArnqfdeW-kgbb6E1XPEfSCmDd_uJKKRKbzN0c6KvOpcFmBSVChrvs2IAFIM2buRV2yoIDuLMr-DQHSdyLMzGp84HhtSMuY9zAf4iVXW2Q7fC5lfD9h7qzBk3yuvH_lU1fDNA.png" group-title="NZM CHANNEL",NICKTOONS
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/75
+#EXTINF:-1 tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5TX2djGMQCBoKqwzwxXGGPHgmg8IH7fyOfYFeT2Oupw1YQw67n2IBLHjF7yZG6tZN0.jpg" group-title="NZM CHANNEL",CARTOON NETWORK
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/63
+#EXTINF:-1 tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5TAYymMlciBYnSOf0J_qv8vUBx4vJ-RcBFWL9p4s3HNog.jpg" group-title="NZM CHANNEL",DREAMWORKS
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/62
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.ZPrZY2rMDfdKqWH59JopbgHaE8&pid=Api&P=0&h=220" group-title="NZM CHANNEL",DISNEY JUNIOR
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/61
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082019/disneychannellogo.png?YpZXEbgCRCmc0wILX_Wh9q5yOGOptbSs&itok=i66-yn1Y" group-title="NZM CHANNEL",DISNEY CHANNEL
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/60
+#EXTINF:-1 tvg-logo="https://s.yimg.com/fz/api/res/1.2/KcaGpBI9aPYdxpLgr09tYQ--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTQwO3E9ODA7dz00MA--/https://s.yimg.com/zb/imgv1/48ca0084-6236-317f-9af9-787f7549a1b8/t_140x140" group-title="NZM CHANNEL",ZOOMOO
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/59
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.Z5ZRflgPv8gWhe1GatcqlAHaFo&pid=Api&P=0&h=220" group-title="NZM CHANNEL",BOOMERANG
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/117
+#EXTINF:-1 tvg-logo="https://up.yimg.com/ib/th?id=OIP.3x0vTY28xuDzejbM8oNLAAAAAA&pid=Api&rs=1&c=1&qlt=95&w=338&h=121" group-title="NZM CHANNEL",MOONBUG KIDS
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/1301
+#EXTINF:-1 tvg-logo="https://up.yimg.com/ib/th?id=OIP.8xIdcYektX82pKAdaXcQEgHaHr&pid=Api&rs=1&c=1&qlt=95&w=104&h=108" group-title="NZM CHANNEL",WARNER TV
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/1309
+#EXTINF:-1 tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5Tu25qqqNdT9yQ3CaHTycps6VoO64W2fLR63ZktQlG58A.png" group-title="NZM CHANNEL",CARTOONITO
+http://vstream.vip/AA3rmxYdcD/Kb9rneT5xD/64
+#EXTINF:-1 tvg-logo="http://vstream.vip:80/images/opKHD_Uhl9rNUz5rSyae2tUrE-qB9NSGPp5-Db_tM5SVfdlEXNO3oiJPYHBWkNpZ.jpg" group-title="NZM CHANNEL",MYX
+http://vstream.vip/8mX5bjS6T3/B6PVdypXSP/92
+#EXTINF:-1 tvg-logo="https://s.yimg.com/fz/api/res/1.2/oZotvnXd_89jGNhG4DCRAQ--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTQwO3E9ODA7dz00MA--/https://s.yimg.com/zb/imgv1/b56cc27d-f61e-376c-b36c-04f7cf28826b/t_140x140" group-title="NZM CHANNEL",MTV U
+http://vstream.vip/8mX5bjS6T3/B6PVdypXSP/140
+#EXTINF:-1 tvg-logo="https://s.yimg.com/fz/api/res/1.2/4_udIju2X.TV8rCjcJm7fQ--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTQwO3E9ODA7dz00MA--/https://s.yimg.com/zb/imgv1/3a2c270f-2039-3991-9a11-f531ed2e2934/t_140x140" group-title="NZM CHANNEL",MTV ASIA
+http://vstream.vip/8mX5bjS6T3/B6PVdypXSP/1302
+#EXTINF:-1 tvg-logo="http://vstream.vip:80/images/BuUbzauffYi39txhYeQJKxk9rO9rMpERyuaiVXL9KEZTbGO9o6UDUnoWsgGQar-Luh7aUixWqolZS1JAJIwJr0EUw5jjsmPOSEO7tzkOMqnkkFN4vMEq99PXCc1FJMXJCOEdJllIJNc9po0ICrKV0g.png" group-title="NZM CHANNEL",VOA
+http://vstream.vip/8mX5bjS6T3/B6PVdypXSP/1558
